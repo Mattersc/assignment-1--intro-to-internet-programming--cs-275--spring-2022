@@ -30,6 +30,14 @@ h2 {
   font-weight: bold;
 }
 
+li {
+	display:block;
+	width:85px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
+}
+
 a { text-decoration: none; color:#000000; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
